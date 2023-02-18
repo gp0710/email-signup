@@ -79,3 +79,5 @@ Will be considering making the site more responsive for screens 376px < x 1439px
 - [more on the outline](https://stackoverflow.com/questions/1457849/how-to-remove-the-border-highlight-on-an-input-text-element)
 
 - [CSS Grid](https://www.freecodecamp.org/news/css-grid-tutorial-with-cheatsheet/)
+
+- [Adding shadow to SVG](https://css-tricks.com/adding-shadows-to-svg-icons-with-css-and-svg-filters/)
