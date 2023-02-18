@@ -52,6 +52,7 @@ Unfortunately the site isn't too responsive for screens 376px < x < 1440px. I wo
 - SVG elements
 - background-image: url('')
 - rem 
+- input text required property
 
 
 ### Continued development
@@ -60,10 +61,21 @@ Will be considering making the site more responsive for screens 376px < x 1439px
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- [SVG positioning](https://stackoverflow.com/questions/34395930/add-icon-inside-a-search-input-tag) - How I positioned the SVG elements for submit, and for error if email isn't entered correctly.
+
+- [Making the Arrow SVG the submit button](https://stackoverflow.com/questions/13649872/can-i-make-an-svg-image-button) - Very cool way to make SVG a pseudo-submit button. The solution has the svg enclosed in a label parent element.
 
 
+- [CSS Gradient](https://css-tricks.com/css3-gradients/#:~:text=Just%20as%20you%20can%20declare,better%20for%20control%20and%20performance.) - This is a great overview on adding gradients to backgrounds!
 
+- [selecting required input](https://www.w3schools.com/jsref/prop_text_required.asp)
 
+- [::placeholder for email input](https://developer.mozilla.org/en-US/docs/Web/CSS/::placeholder)
 
+- [regEx for Email!](https://regexr.com/3e48o)
+
+- [email input focus outline](https://www.w3schools.com/css/css_outline_shorthand.asp)
+
+- [more on the outline](https://stackoverflow.com/questions/1457849/how-to-remove-the-border-highlight-on-an-input-text-element)
+
+- [CSS Grid](https://www.freecodecamp.org/news/css-grid-tutorial-with-cheatsheet/)
